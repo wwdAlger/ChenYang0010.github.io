@@ -11,5 +11,5 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Education
 ======
-2015 - 2019           B.Eng., Network Engineering, Xi’an University of Technology
-2015 - 2024           PhD., Computer Science and Technology, Xidian University
+2015 - 2019           B.Eng., Network Engineering, Xi’an University of Technology  
+2015 - 2024           PhD., Computer Science and Technology, Xidian University  
