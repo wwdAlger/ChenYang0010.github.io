@@ -10,8 +10,8 @@ I'm a postdoctoral at the School of Artificial Intelligence, Xidian University. 
 
 Education
 ======
-2015 - 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S., Network Engineering, Xi’an University of Technology  
-2015 - 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD., Computer Science and Technology, Xidian University  
+2015 - 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S., Network Engineering, Xi’an University of Technology  
+2019 - 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD., Computer Science and Technology, Xidian University  
 
 Publication
 ======
